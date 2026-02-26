@@ -7,7 +7,7 @@
           <img src="/potas.jpg" alt="Avatar de Seu Nome" />
         </div>
         <h1>Kauã Martins Barros</h1>
-        <p class="bio">Softwar Developer | I make things think | AI Enthusiast</p>
+        <p class="bio">Software Developer | I make things think | AI Enthusiast</p>
       </div>
 
       <div class="links">
